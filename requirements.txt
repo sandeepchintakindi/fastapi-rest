@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+py-postgresql
+sqlalchemy
+fastapi_utils
+pydantic
