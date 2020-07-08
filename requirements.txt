@@ -4,3 +4,4 @@ py-postgresql
 sqlalchemy
 fastapi_utils
 pydantic
+google-cloud-datastore==1.12.0
